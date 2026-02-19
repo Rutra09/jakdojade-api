@@ -66,7 +66,7 @@ const query = new RouteQueryBuilder()
     // Options
     .avoidLine(509)
     .avoidLine(159)
-    .avoidChanges("AVOID_CHANGES") // DEFAULT, NO_CHANGES, MIN_CHANGES, AVOID_CHANGES
+    .avoidChanges("AVOID_CHANGES") // DEFAULT, AVOID_CHANGES
     .connectionType("FAST")        // OPTIMAL, FAST, CONVENIENT
     .prohibitVehicle("VEHICLE_TYPE_TRAIN")
     .wheelchairAccessible()
