@@ -90,3 +90,4 @@ const results = await client.search(query);
 ## Disclaimer
 
 This library is for educational purposes only. It is not affiliated with or endorsed by Jakdojade. Use responsibly.
+**This was fully vibecoded using Gemini 3 Pro, any bugs report will be welcome <3**
